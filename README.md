@@ -32,6 +32,13 @@ This Repository contains Resources for both Frontend Development, Backend Develo
   - [Awesome Nodejs](https://github.com/sindresorhus/awesome-nodejs)
   - [Learn React and Nodejs by Stephen Grider](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
 
+- PHP(& Laravel)
+
+  - [PHP the right way](https://phptherightway.com/)
+  - [PHP fron to back](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
+  - [Laracasts tutorials](https://laracasts.com/)
+  - [Eloquent ORM](https://eloquentbyexample.com/)
+
 - Other Courses
   - [Git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
